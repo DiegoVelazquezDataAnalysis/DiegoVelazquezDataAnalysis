@@ -1,12 +1,10 @@
-# About me
-It all started during my years at SFU, when I discovered Python's power for something more than just programming: it could analyze real data, fit theoretical models, and visualize experiment results. 
+# Sobre mi
+Me considero un entusiasta por los datos; recolectar datos crudos y transformarlos en información relevante para la toma educada de decisiones me parece un proceso realmente interesante. Cuento con estudios sólidos en física y análisis de datos. Actualmente, me encuentro realizando proyectos para mejorar mis habilidades técnicas y analíticas, enfocándome en el dominio de SQL para la gestión de bases de datos y el diseño de tableros interactivos. Busco aplicar mi capacidad de abstracción científica para resolver problemas cada vez más complejos, contribuyendo así al crecimiento de organizaciones que apuestan por una ideología basada en hechos. Mi formación en física me otorga un razonamiento lógico y estructurado, haciéndome posible identificar patrones y convertir los datos en una ventaja competitiva.
 
-Today, I'm dedicated to strengthening that path through an intensive learning process that has allowed me to perfect my skills in data analysis, cleaning, and visualization with Python, in addition to incorporating new tools like SQL and the use of APIs to obtain information from different sources.
+## Habilidades técnicas
+* Lenguajes de programación: ![Static Badge](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/-MySQL-%234479A1?logo=mysql&logoColor=white) ![Static Badge](https://img.shields.io/badge/-C%2B%2B-%234479A1?logo=cplusplus&logoColor=white) 
+* Softwares de visualización: [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=white)](#) [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
+* Librerías de Python: [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#) [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#) [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#) [![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)](#)
 
-My next step is to put all this knowledge to work on projects that transform data into strategic decisions. I firmly believe that the combination of curiosity, method, and communication can turn data into a powerful language to improve how we understand the world.
-
-# Tec Skills
-![Static Badge](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/-MySQL-%234479A1?logo=mysql&logoColor=white) ![Static Badge](https://img.shields.io/badge/-C%2B%2B-%234479A1?logo=cplusplus&logoColor=white) ![Static Badge](https://img.shields.io/badge/Power%20BI-%23FFB903?logoColor=white) ![Static Badge](https://img.shields.io/badge/Tableau-%230176D3?logoColor=white)
-
-# Where to Find Me
+# Donde encontrarme
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-velazquez-da/)
